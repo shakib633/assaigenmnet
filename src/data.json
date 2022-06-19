@@ -1,0 +1,24 @@
+[{
+    "Product_name": "iPhone",
+    "Status": "PENDING",
+    "Created_date": "2021-08-10"
+    }, 
+    {
+    "Product_name": "Tablet",
+    "Status": "Deliver",
+
+    "Created_date": "2021-08-12"
+    }, 
+    {
+        "Product_name": "samsung Keyboard",
+        "Status": "PENDING",
+        "Created_date": "2021-08-15"
+    },
+    {
+
+        "Product_name": "iPhone",
+        "Status": "PENDING",
+        "Created_date": "2021-08-10"
+
+    }
+]
